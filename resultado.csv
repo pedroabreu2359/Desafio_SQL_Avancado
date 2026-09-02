@@ -1,0 +1,9 @@
+vendedor_id,nome,regiao,qtd_vendas,valor_total,posicao_na_regiao,categoria_desempenho
+7,"Gabriela Lima",Nordeste,3,65500.00,1,"Alto desempenho"
+6,"Felipe Alves",Nordeste,2,4300.00,2,"Baixo desempenho"
+8,"Hugo Martins",Nordeste,0,0.00,3,"Sem vendas"
+1,"Ana Silva",Sudeste,3,53500.00,1,"Alto desempenho"
+2,"Bruno Costa",Sudeste,2,21500.00,2,"Médio desempenho"
+3,"Carla Dias",Sudeste,1,3000.00,3,"Baixo desempenho"
+4,"Diego Souza",Sul,4,73000.00,1,"Alto desempenho"
+5,"Elaine Rocha",Sul,2,19000.00,2,"Baixo desempenho"
