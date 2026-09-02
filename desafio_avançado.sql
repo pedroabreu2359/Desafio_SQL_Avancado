@@ -49,7 +49,7 @@ INSERT INTO vendas (id, vendedor_id, valor, data_venda) VALUES
 (8,  4, 19000.00, '2026-01-25'),
 (9,  4, 17000.00, '2026-02-08'),
 (10, 4, 15000.00, '2026-03-01'),
--- Elaine Rocha (Sul) - médio
+-- Elaine Rocha (Sul) - baixo
 (11, 5, 11000.00, '2026-02-17'),
 (12, 5,  8000.00, '2026-03-09'),
 -- Felipe Alves (Nordeste) - baixo
